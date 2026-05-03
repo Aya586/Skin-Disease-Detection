@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project is a Deep Learning application designed to classify various skin diseases from digital images. It utilizes a **Convolutional Neural Network (CNN)** built with **TensorFlow** and **Keras** to provide automated diagnostic support.
-![Model Prediction Output](output_sample.png)
+![Model Prediction Output](output_sample.png.png)
 
 ## 📂 Dataset Structure
 The data is organized into three main directories:
